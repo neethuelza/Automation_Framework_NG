@@ -1,0 +1,6 @@
+Assertion error occurred: assert 'OrangeHRM' == 'ABC'
+  
+  [0m[91m- ABC[39;49;00m[90m[39;49;00m
+  [92m+ OrangeHRM[39;49;00m[90m[39;49;00m
+Screenshot saved to: C:/Users/abyja/PycharmProjects/Automation_Framework_NG/screenshots\_capture_screenshot_assertion_error_2025-10-08_15-36-38.png
+This block will always execute | Close DB
