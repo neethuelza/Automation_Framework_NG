@@ -1,2 +1,0 @@
-📸 Screenshot saved: C:\Users\abyja\PycharmProjects\Automation_Framework_NG\screenshots\login_page_17-23-24_10-07-2025.png
-📸 Screenshot saved: C:\Users\abyja\PycharmProjects\Automation_Framework_NG\screenshots\after_login_17-23-24_10-07-2025.png

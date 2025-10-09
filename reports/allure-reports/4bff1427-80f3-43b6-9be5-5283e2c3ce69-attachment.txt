@@ -1,2 +1,0 @@
-No exceptions occurred
-This block will always execute | Close DB
