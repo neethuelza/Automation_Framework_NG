@@ -1,7 +1,0 @@
-Assertion error occurred
-assert 'OrangeHRM' == 'OrangeHRM1'
-  
-  [0m[91m- OrangeHRM1[39;49;00m[90m[39;49;00m
-  ?          -[90m[39;49;00m
-  [92m+ OrangeHRM[39;49;00m[90m[39;49;00m
-This block will always execute | Close DB
