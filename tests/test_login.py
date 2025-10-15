@@ -30,7 +30,7 @@ class TestLogin:
             )
 
             x = driver.title  # Get the current page title
-            assert x == "ABC"  # Verify the title is as expected
+            assert x == "OrangeHRM"  # Verify the title is as expected
 
         except AssertionError as error:
             # Handle assertion failures (e.g., title mismatch)
